@@ -1,4 +1,5 @@
 # python3
+# Kristaps Arnolds Kaidalovs 16.grupa 201RDK001
 
 class ContactList:
     def __init__(self, bucket_capacity):
